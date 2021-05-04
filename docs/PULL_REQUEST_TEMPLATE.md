@@ -11,7 +11,7 @@
 
 ## Requirements
 - [ ] My pull request use [labels](pull-request-label-URL).
-- [ ] I have read [CONTRIBUTING.md](CONTRIBUTING.md).
+- [ ] I have read [CONTRIBUTING.md](../docs/CONTRIBUTING.md).
 - [ ] My code pass all the Github CI/CD test.
 - [ ] My code follows the code style of the project.
 - [ ] My pull request requesting from ***develop*** branch.
